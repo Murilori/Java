@@ -54,7 +54,7 @@ public class App {
 
     }
 }
-//
+
 //        System.out.println("digite um numero");
 //        Integer numero1 = scan.nextInt();
 //
