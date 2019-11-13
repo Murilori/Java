@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42f46f69-618c-4cb4-bf90-73daed7b382e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/db1/db1start/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DB1startjava/com/db1/db1start/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DB1startjava/com/db1/db1start/App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/db1/db1start/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/db1/db1start/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/db1/db1start/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/db1/db1start/Application.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,18 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="717">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-              <folding>
-                <element signature="e#1026#1027#0" expanded="true" />
-                <element signature="e#1066#1067#0" expanded="true" />
-                <element signature="e#1116#1117#0" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
-                <element signature="e#1208#1209#0" expanded="true" />
-                <element signature="e#1250#1251#0" expanded="true" />
-                <element signature="e#1484#1485#0" expanded="true" />
-                <element signature="e#1541#1542#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-238">
+              <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -37,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+            <state relative-caret-position="86">
+              <caret line="80" column="65" lean-forward="true" selection-start-line="80" selection-start-column="65" selection-end-line="80" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,17 +40,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="159">
+              <caret line="74" column="44" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="44" />
               <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
                 <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1046#1047#0" expanded="true" />
+                <element signature="e#1101#1102#0" expanded="true" />
+                <element signature="e#1144#1145#0" expanded="true" />
+                <element signature="e#2510#2511#0" expanded="true" />
+                <element signature="e#2549#2550#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,8 +88,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,7 +119,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573588687552" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573674877469" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -146,8 +137,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest.deveserpar">
-    <configuration name="AppTest.deveRetornar8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AppTest.quantidadeLetrasComEspaco">
+    <configuration name="AppTest.impar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DB1startjava" />
       <extension name="coverage">
         <pattern>
@@ -157,13 +148,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.db1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.db1start.AppTest" />
-      <option name="METHOD_NAME" value="deveRetornar8" />
+      <option name="METHOD_NAME" value="impar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.deveretornar1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTest.maiusculas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DB1startjava" />
       <extension name="coverage">
         <pattern>
@@ -173,13 +164,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.db1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.db1start.AppTest" />
-      <option name="METHOD_NAME" value="deveretornar1" />
+      <option name="METHOD_NAME" value="maiusculas" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.deveretornar16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTest.minusculas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DB1startjava" />
       <extension name="coverage">
         <pattern>
@@ -189,13 +180,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.db1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.db1start.AppTest" />
-      <option name="METHOD_NAME" value="deveretornar16" />
+      <option name="METHOD_NAME" value="minusculas" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.deveserpar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTest.quantidadeLetras" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DB1startjava" />
       <extension name="coverage">
         <pattern>
@@ -205,13 +196,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.db1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.db1start.AppTest" />
-      <option name="METHOD_NAME" value="deveserpar" />
+      <option name="METHOD_NAME" value="quantidadeLetras" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTest.quantidadeLetrasComEspaco" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DB1startjava" />
       <extension name="coverage">
         <pattern>
@@ -221,7 +212,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.db1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.db1start.AppTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="METHOD_NAME" value="quantidadeLetrasComEspaco" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -229,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTest.deveserpar" />
-        <item itemvalue="JUnit.AppTest.deveretornar16" />
-        <item itemvalue="JUnit.AppTest.deveretornar1" />
-        <item itemvalue="JUnit.AppTest.deveRetornar8" />
-        <item itemvalue="JUnit.AppTest.test" />
+        <item itemvalue="JUnit.AppTest.quantidadeLetrasComEspaco" />
+        <item itemvalue="JUnit.AppTest.quantidadeLetras" />
+        <item itemvalue="JUnit.AppTest.minusculas" />
+        <item itemvalue="JUnit.AppTest.maiusculas" />
+        <item itemvalue="JUnit.AppTest.impar" />
       </list>
     </recent_temporary>
   </component>
@@ -276,46 +267,53 @@
       <option name="project" value="LOCAL" />
       <updated>1573584423474</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit Novos testes de java">
+      <created>1573588870014</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573588870014</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_test - 2019.11.12 at 16h 59m 34s.xml">
-      <configuration name="AppTest.test" configurationId="JUnit" />
+    <history-entry file="AppTest_impar - 2019.11.13 at 15h 11m 20s.xml">
+      <configuration name="AppTest.impar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveRetornar8 - 2019.11.12 at 17h 13m 13s.xml">
-      <configuration name="AppTest.deveRetornar8" configurationId="JUnit" />
+    <history-entry file="AppTest_maiusculas - 2019.11.13 at 15h 24m 10s.xml">
+      <configuration name="AppTest.maiusculas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveRetornar8 - 2019.11.12 at 17h 13m 45s.xml">
-      <configuration name="AppTest.deveRetornar8" configurationId="JUnit" />
+    <history-entry file="AppTest_minusculas - 2019.11.13 at 15h 26m 28s.xml">
+      <configuration name="AppTest.minusculas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveretornar1 - 2019.11.12 at 17h 28m 01s.xml">
-      <configuration name="AppTest.deveretornar1" configurationId="JUnit" />
+    <history-entry file="AppTest_minusculas - 2019.11.13 at 15h 27m 09s.xml">
+      <configuration name="AppTest.minusculas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveretornar1 - 2019.11.12 at 17h 28m 11s.xml">
-      <configuration name="AppTest.deveretornar1" configurationId="JUnit" />
+    <history-entry file="AppTest_quantidadeLetras - 2019.11.13 at 15h 36m 29s.xml">
+      <configuration name="AppTest.quantidadeLetras" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveretornar1 - 2019.11.12 at 17h 28m 22s.xml">
-      <configuration name="AppTest.deveretornar1" configurationId="JUnit" />
+    <history-entry file="AppTest_quantidadeLetras - 2019.11.13 at 16h 38m 17s.xml">
+      <configuration name="AppTest.quantidadeLetras" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveretornar16 - 2019.11.12 at 17h 29m 16s.xml">
-      <configuration name="AppTest.deveretornar16" configurationId="JUnit" />
+    <history-entry file="AppTest_quantidadeLetras - 2019.11.13 at 16h 55m 38s.xml">
+      <configuration name="AppTest.quantidadeLetras" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveretornar16 - 2019.11.12 at 17h 29m 30s.xml">
-      <configuration name="AppTest.deveretornar16" configurationId="JUnit" />
+    <history-entry file="AppTest_quantidadeLetrasComEspaco - 2019.11.13 at 17h 03m 12s.xml">
+      <configuration name="AppTest.quantidadeLetrasComEspaco" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveserpar - 2019.11.12 at 17h 43m 13s.xml">
-      <configuration name="AppTest.deveserpar" configurationId="JUnit" />
+    <history-entry file="AppTest_quantidadeLetras - 2019.11.13 at 17h 38m 40s.xml">
+      <configuration name="AppTest.quantidadeLetras" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveserpar - 2019.11.12 at 17h 43m 39s.xml">
-      <configuration name="AppTest.deveserpar" configurationId="JUnit" />
+    <history-entry file="AppTest_quantidadeLetrasComEspaco - 2019.11.13 at 17h 53m 05s.xml">
+      <configuration name="AppTest.quantidadeLetrasComEspaco" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="683" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.7046549" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.34341908" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -324,7 +322,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32718122" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33557048" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,7 +330,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.33724833" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32718122" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3267974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -386,54 +384,42 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit de soma" />
     <MESSAGE value="Commit dos exercicios" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit dos exercicios" />
+    <MESSAGE value="Commit Novos testes de java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Novos testes de java" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/Soma.java">
+    <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/Soma.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="-238">
+          <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="717">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="e#1026#1027#0" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
-            <element signature="e#1116#1117#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1484#1485#0" expanded="true" />
-            <element signature="e#1541#1542#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="159">
+          <caret line="74" column="44" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="44" />
           <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
             <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#2510#2511#0" expanded="true" />
+            <element signature="e#2549#2550#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        <state relative-caret-position="86">
+          <caret line="80" column="65" lean-forward="true" selection-start-line="80" selection-start-column="65" selection-end-line="80" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

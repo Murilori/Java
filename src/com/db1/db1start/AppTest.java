@@ -36,10 +36,52 @@ public class AppTest {
     public void deveserpar(){
         Application application = new Application();
         Boolean expected = true;
-        Boolean reponse = application.par(4);
-        Assert.assertEquals(expected,reponse);
+        Boolean response = application.par(4);
+        Assert.assertEquals(expected,response);
     }
     @Test
+    public void compararmaior(){
+        Application application = new Application();
+        Integer expected = 10;
+        Integer response = application.compararmaior(10,6);
+        Assert.assertEquals(expected,response);
+    }
+    @Test
+    public void impares(){
+        Application application = new Application();
+        Integer expected = 4;
+        Integer response = application.impares(7);
+        Assert.assertEquals(expected,response);
+    }
+    @Test
+    public void maiusculas(){
+        Application application = new Application();
+        String expected = "TEXTO1";
+        String response = application.maiusculas("texto1");
+        Assert.assertEquals(expected,response);
+    }
+    @Test
+    public void minusculas(){
+        Application application = new Application();
+        String expected = "texto1";
+        String response = application.minusculas("TEXTO1");
+        Assert.assertEquals(expected,response);
+    }
+    @Test
+    public void quantidadeLetras(){
+        Application application = new Application();
+        Integer expected = 7;
+        Integer response = application.quantidadeLetras("DB1START");
+        Assert.assertEquals(expected,response);
+    }
+    @Test
+    public void quantidadeLetrasComEspaco(){
+        Application application = new Application();
+        Integer expected = 7;
+        Integer response = application.quantidadeLetrasComEspaco(" DB1START ");
+        Assert.assertEquals(expected,response);
+    }
+
 
 
 }
