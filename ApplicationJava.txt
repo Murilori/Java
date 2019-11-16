@@ -1,0 +1,106 @@
+package com.db1.db1start;
+
+import java.time.temporal.UnsupportedTemporalTypeException;
+
+public class ApplicationCasa {
+
+//    public Integer soma(Integer numero1, Integer numero2){
+//        return numero1 + numero2;
+//    }
+//    public Integer subtracao(Integer numero1, Integer numero2){
+//        return numero1 - numero2;
+//    }
+//    public Integer multiplicacao(Integer numero1, Integer numero2){
+//        return numero1 * numero2;
+//    }
+//    public Integer div(Integer numero1, Integer numero2){
+//        return numero1 / numero2;
+//    }
+//    public Boolean par(Integer numero1){
+//        if(numero1%2 == 0){
+//            return  true;
+//        }
+//        return false;
+//    }
+//    public Integer compararmaior(Integer numero1, Integer numero2){
+//        if(numero1 > numero2){
+//            return numero1;
+//        }
+//        return numero2;
+//    }
+//    public Integer impares(Integer numero1){
+//        if(numero1%2==0){
+//            return numero1/2;
+//        }
+//        return  (numero1 + 1)/2;
+//    }
+//    public String maiusculas(String texto1){
+//        return texto1.toUpperCase();
+//    }
+//    public String minusculas(String texto1){
+//        return texto1.toLowerCase();
+//    }
+//    //    public Integer quantidadeLetras(String txt) {
+////        Integer numero = 0;
+////        Integer total = (txt.trim().length());
+////        for (Integer i = 0; i < total; i++) {
+////            if (txt.charAt(i) == '0' | txt.charAt(i) == '1' | txt.charAt(i) == '2' | txt.charAt(i) == '3'
+////                    | txt.charAt(i) == '4' | txt.charAt(i) == '5' | txt.charAt(i) == '6' | txt.charAt(i) == '7' | txt.charAt(i) == '8'
+////                    | txt.charAt(i) == '9') {
+////                numero++;
+////            }
+////        }
+////        return (total - numero);
+////    }
+////        public Integer quantidadeLetrasComEspaco (String txt){
+////            Integer numero = 0;
+////            Integer total = (txt.trim().length());
+////            for (Integer i = 0; i < total; i++) {
+////                if (txt.charAt(i) == '0' | txt.charAt(i) == '1' | txt.charAt(i) == '2' | txt.charAt(i) == '3'
+////                        | txt.charAt(i) == '4' | txt.charAt(i) == '5' | txt.charAt(i) == '6' | txt.charAt(i) == '7' | txt.charAt(i) == '8'
+////                        | txt.charAt(i) == '9') {
+////                    numero++;
+////                }
+////            }
+////            return (total - numero);
+////        }
+//    public Integer quantidadeLetras(String txt) {
+//        String palavra = "DB1Start";
+//        return removeNumerosDeString (palavra).length();
+//    }
+//
+//    private String removeNumerosDeString(String palavra) {
+//        return palavra.replaceAll("[0-9]", "");
+//    }
+//    public Integer quantidadeLetrasComEspaco(String txt) {
+//        String palavra = " DB1Start ";
+//        return removeNumerosDeString (palavra).trim().length();
+//    }
+    public String nome(String nome){
+        return (nome.substring(0,4));
+    }
+    public String nomeDepoisDe3(String nome3){
+        return nome3.substring(3);
+    }
+    public String ultimos4nome(String txt){
+        return txt.substring(txt.length()-4);
+    }
+    public  String aluno(String txt){
+        String[]a = txt.split("");
+        return ("Aluno" + a[1] + "" + a[2]);
+    }
+//    public String textofrutas(String txt){
+//        String[]txtseparado = txt.split(", ");
+//        return (txtseparado[0] + "" + txtseparado[1] + "" + txtseparado[2]);
+//    }
+    public int  quantidadeDeVogais(String txt){
+        return txt.toUpperCase().replaceAll("[^AEIOU]","").length();
+    }
+    public String textoInvertido(String txt){
+        String inverso = new StringBuilder(txt).reverse().toString();
+        return (inverso);
+    }
+
+
+}
+
